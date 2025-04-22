@@ -1,15 +1,17 @@
-<!DOCTYPE html>
-<html>
+# ✨ Ruby Realm
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
+Welcome to **Ruby Realm** – where elegance meets stardust ✨
 
-<body>
+This is a personal website dedicated to my passion for fashion, makeup, and self-expression. Ruby Realm is a space that blends cosmic vibes with a feminine and elegant style.
 
-  <h1> ✨ Ruby Realm </h1>
-  <img src="Shalom Harlow.webp" alt="Shalom Harlow en pasarela" width="300">
-  <h2> Shalom Harlow </h2>
+## 🌸 What you'll find here:
+- **My Style**: Outfit inspiration and aesthetic moodboards.
+- **Tips**: Makeup advice, fashion tricks, and beauty secrets.
+- **Favorites**: Products, brands, and trends I love.
+- **Contact**: Let's connect!
+
+> Created with love and glitter by Ruby 💫
+
+---
+
+Stay tuned for more updates!
